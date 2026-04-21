@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://odindevops.github.io/handbook-dvl6qk/sitemap.xml
